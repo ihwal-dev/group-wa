@@ -2,6 +2,13 @@
 export default defineNuxtConfig({
   app: {
     head: {
+      link: [
+        {
+          rel: 'icon',
+          type: 'image/png',
+          href: 'https://static.whatsapp.net/rsrc.php/v4/yz/r/ujTY9i_Jhs1.png' // use local file here
+        }
+      ],
       meta: [
         {
           name: 'viewport',

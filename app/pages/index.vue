@@ -324,7 +324,7 @@ body
 
 .wrapper .content
 {
-    margin-top: 80px;
+    margin-top: 90px;
     width: 100%;
     display: flex;
     align-items: center;
